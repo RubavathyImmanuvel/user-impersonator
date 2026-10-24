@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|c:\\users\\admin\\documents\\ruba\\projects\\user-impersonator\\userimpersonator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|solutionrelative:userimpersonator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|c:\\users\\admin\\documents\\ruba\\projects\\user-impersonator\\userimpersonator\\serviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|solutionrelative:userimpersonator\\serviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|c:\\users\\admin\\documents\\ruba\\projects\\user-impersonator\\userimpersonator\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|solutionrelative:userimpersonator\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|c:\\users\\admin\\documents\\ruba\\projects\\user-impersonator\\userimpersonator\\impersonationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|solutionrelative:userimpersonator\\impersonationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|c:\\users\\admin\\documents\\ruba\\projects\\user-impersonator\\userimpersonator\\impersonationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|solutionrelative:userimpersonator\\impersonationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|c:\\users\\admin\\documents\\ruba\\projects\\user-impersonator\\userimpersonator\\identityreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|solutionrelative:userimpersonator\\identityreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|c:\\users\\admin\\documents\\ruba\\projects\\user-impersonator\\userimpersonator\\impersonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F59840-671B-404B-B0CB-DF2EA785B784}|UserImpersonator\\UserImpersonator.csproj|solutionrelative:userimpersonator\\impersonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\ServiceInstaller.cs",
+              "RelativeDocumentMoniker": "UserImpersonator\\ServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\ServiceInstaller.cs",
+              "RelativeToolTip": "UserImpersonator\\ServiceInstaller.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:04:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NativeMethods.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\NativeMethods.cs",
+              "RelativeDocumentMoniker": "UserImpersonator\\NativeMethods.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\NativeMethods.cs",
+              "RelativeToolTip": "UserImpersonator\\NativeMethods.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:04:29.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImpersonationLog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\ImpersonationLog.cs",
+              "RelativeDocumentMoniker": "UserImpersonator\\ImpersonationLog.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\ImpersonationLog.cs",
+              "RelativeToolTip": "UserImpersonator\\ImpersonationLog.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:03:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityReport.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\IdentityReport.cs",
+              "RelativeDocumentMoniker": "UserImpersonator\\IdentityReport.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\IdentityReport.cs",
+              "RelativeToolTip": "UserImpersonator\\IdentityReport.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:02:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\Program.cs",
+              "RelativeDocumentMoniker": "UserImpersonator\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\Program.cs",
+              "RelativeToolTip": "UserImpersonator\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:02:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImpersonationWorker.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\ImpersonationWorker.cs",
+              "RelativeDocumentMoniker": "UserImpersonator\\ImpersonationWorker.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\ImpersonationWorker.cs",
+              "RelativeToolTip": "UserImpersonator\\ImpersonationWorker.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:02:15.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Impersonation.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\Impersonation.cs",
+              "RelativeDocumentMoniker": "UserImpersonator\\Impersonation.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Ruba\\projects\\user-impersonator\\UserImpersonator\\Impersonation.cs",
+              "RelativeToolTip": "UserImpersonator\\Impersonation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:00:12.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
